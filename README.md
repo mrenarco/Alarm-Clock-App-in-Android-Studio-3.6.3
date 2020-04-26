@@ -1,4 +1,4 @@
-# Alarm-Clock-App-in-Android-Studio-3.6.3-
+# Alarm-Clock-App-in-Android-Studio-3.6.3
 
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
